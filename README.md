@@ -43,8 +43,8 @@ Direct JSON Download (210.2 KB) [pop_rok_drm_id_001_json](https://zenodo.org/rec
 | **Label**             | **Reference**                                                  |
 | ----------------- | ------------------------------------------------------------------ |
 | bpm  | The tempo of the audio file|
-| wrld | Main genre (world)|
-| smb | Subgenre (samba)|
+| pop | Main genre (pop)|
+| rok | Subgenre (rock)|
 | drm | Instrument (drums)|
 | id | Identification number|
 | 0000 | Playlist track number|
