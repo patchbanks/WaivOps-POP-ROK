@@ -1,0 +1,15 @@
+{
+    "key_map_drum_note_labels": [
+        {"note": 36, "label": "Kick"},
+        {"note": 37, "label": "Rimshot"},
+        {"note": 38, "label": "Snare"},
+        {"note": 42, "label": "Closed Hat"},
+        {"note": 44, "label": "Pedal Hat"},
+        {"note": 46, "label": "Open Hat"},
+        {"note": 49, "label": "Crash Cymbal"},
+        {"note": 51, "label": "Ride Cymbal"},
+        {"note": 52, "label": "China Cymbal"},
+        {"note": 53, "label": "Ride Bell Cymbal"},
+        {"note": 55, "label": "Splash Cymbal"}
+    ]
+}
